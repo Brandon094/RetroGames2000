@@ -12,7 +12,3 @@ Catálogo de juegos de PC de la era 2000-2004 con enlaces de descarga a MediaFir
 - 💾 **Base de datos JSON** - Fácil de actualizar y mantener
 
 ## 🚀 Demo
-
-[Enlace a tu demo si la tienes]
-
-## 📁 Estructura del proyecto
