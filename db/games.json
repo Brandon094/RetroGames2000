@@ -1,0 +1,193 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "Age of Empires",
+            "year": 2000,
+            "genre": "rpg",
+            "desc": "El ARPG eterno de Blizzard. Cazador de demonios y tesoros legendarios.",
+            "mediafireUrl": "https://www.mediafire.com/file/diablo2_lord_of_destruction_2000.rar/file",
+            "icon": "assets/aoe.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Counter-Strike 1.6",
+            "year": 2000,
+            "genre": "shooter",
+            "desc": "El rey de los FPS por equipos. ¡Asalto, rescue, y partidas infinitas!",
+            "mediafireUrl": "https://www.mediafire.com/file/cs16_nosteam_full_2000.zip/file",
+            "icon": "🔫⚡"
+        },
+        {
+            "id": 3,
+            "name": "Age of Empires II: The Conquerors",
+            "year": 2000,
+            "genre": "estrategia",
+            "desc": "Construye tu imperio medieval. La expansión definitiva.",
+            "mediafireUrl": "https://www.mediafire.com/file/aoe2_conquerors_2000.iso/file",
+            "icon": "🏰⚔️"
+        },
+        {
+            "id": 4,
+            "name": "The Sims",
+            "year": 2000,
+            "genre": "simulacion",
+            "desc": "Crea casas, familias y controla sus vidas locas. El fenómeno social total.",
+            "mediafireUrl": "https://www.mediafire.com/file/the_sims_completo_2000.iso/file",
+            "icon": "🏠👨‍👩‍👧"
+        },
+        {
+            "id": 5,
+            "name": "Max Payne",
+            "year": 2001,
+            "genre": "shooter",
+            "desc": "Bullet time, oscuridad y venganza. Clásico del cine negro en videojuego.",
+            "mediafireUrl": "https://www.mediafire.com/file/maxpayne_2001_pc.rar/file",
+            "icon": "🕶️💊"
+        },
+        {
+            "id": 6,
+            "name": "Grand Theft Auto III",
+            "year": 2001,
+            "genre": "aventura",
+            "desc": "Libertad total en 3D. Liberty City cambió los juegos para siempre.",
+            "mediafireUrl": "https://www.mediafire.com/file/gta3_2001_pc_rip.rar/file",
+            "icon": "🚗💥"
+        },
+        {
+            "id": 7,
+            "name": "Halo: Combat Evolved",
+            "year": 2001,
+            "genre": "shooter",
+            "desc": "El Jefe Maestro contra el Covenant. Mítica campaña y multijugador.",
+            "mediafireUrl": "https://www.mediafire.com/file/halo_combat_evolved_2001.iso/file",
+            "icon": "👾🎮"
+        },
+        {
+            "id": 8,
+            "name": "Warcraft III: Reign of Chaos",
+            "year": 2002,
+            "genre": "estrategia",
+            "desc": "Héroes, razas y la historia de Arthas. Un RTS inolvidable.",
+            "mediafireUrl": "https://www.mediafire.com/file/warcraft3_roc_2002.iso/file",
+            "icon": "⚔️🐉"
+        },
+        {
+            "id": 9,
+            "name": "Medal of Honor: Allied Assault",
+            "year": 2002,
+            "genre": "shooter",
+            "desc": "Desembarco de Normandía. Bélico y cinematográfico.",
+            "mediafireUrl": "https://www.mediafire.com/file/moh_allied_assault_2002.rar/file",
+            "icon": "🎖️🔫"
+        },
+        {
+            "id": 10,
+            "name": "Neverwinter Nights",
+            "year": 2002,
+            "genre": "rpg",
+            "desc": "D&D en PC, creador de módulos y campaña épica.",
+            "mediafireUrl": "https://www.mediafire.com/file/nwn_diamond_2002.iso/file",
+            "icon": "🐉🧙"
+        },
+        {
+            "id": 11,
+            "name": "SimCity 4",
+            "year": 2003,
+            "genre": "simulacion",
+            "desc": "Construye megalópolis, maneja tráfico y desastres. Complejidad adictiva.",
+            "mediafireUrl": "https://www.mediafire.com/file/simcity4_deluxe_2003.rar/file",
+            "icon": "🏙️🏗️"
+        },
+        {
+            "id": 12,
+            "name": "Call of Duty",
+            "year": 2003,
+            "genre": "shooter",
+            "desc": "La primera entrega bélica que redefinió los shooters de WWII.",
+            "mediafireUrl": "https://www.mediafire.com/file/call_of_duty_classic_2003.iso/file",
+            "icon": "🎯🪖"
+        },
+        {
+            "id": 13,
+            "name": "Star Wars: Knights of the Old Republic",
+            "year": 2003,
+            "genre": "rpg",
+            "desc": "El mejor RPG de Star Wars. La fuerza te acompañará.",
+            "mediafireUrl": "https://www.mediafire.com/file/kotor_2003_pc.rar/file",
+            "icon": "🌌⚡"
+        },
+        {
+            "id": 14,
+            "name": "Need for Speed: Underground",
+            "year": 2003,
+            "genre": "simulacion",
+            "desc": "Tuneo, neones y carreras ilegales. Banda sonora mítica.",
+            "mediafireUrl": "https://www.mediafire.com/file/nfs_underground_2003.iso/file",
+            "icon": "🏎️💨"
+        },
+        {
+            "id": 15,
+            "name": "Far Cry",
+            "year": 2004,
+            "genre": "shooter",
+            "desc": "Gráficos revolucionarios, jungla y enemigos letales. El inicio de Crytek.",
+            "mediafireUrl": "https://www.mediafire.com/file/farcry_2004_pc.rar/file",
+            "icon": "🌴🔫"
+        },
+        {
+            "id": 16,
+            "name": "World of Warcraft (Vanilla)",
+            "year": 2004,
+            "genre": "rpg",
+            "desc": "El MMO que conquistó el mundo. Versión 1.12 clásica.",
+            "mediafireUrl": "https://www.mediafire.com/file/wow_classic_2004_installer.rar/file",
+            "icon": "🌍🗡️"
+        },
+        {
+            "id": 17,
+            "name": "Rome: Total War",
+            "year": 2004,
+            "genre": "estrategia",
+            "desc": "Batallas masivas con legiones romanas. Estrategia en tiempo real y por turnos.",
+            "mediafireUrl": "https://www.mediafire.com/file/rome_total_war_gold_2004.iso/file",
+            "icon": "🏛️⚔️"
+        },
+        {
+            "id": 18,
+            "name": "Doom 3",
+            "year": 2004,
+            "genre": "shooter",
+            "desc": "Horror y acción futurista en Marte. Sombras y sustos asegurados.",
+            "mediafireUrl": "https://www.mediafire.com/file/doom3_2004_pc.iso/file",
+            "icon": "👹🔦"
+        },
+        {
+            "id": 19,
+            "name": "Unreal Tournament 2004",
+            "year": 2004,
+            "genre": "shooter",
+            "desc": "El frenético arena shooter por excelencia, vehículos y modos locos.",
+            "mediafireUrl": "https://www.mediafire.com/file/ut2004_editor_choice.iso/file",
+            "icon": "🏆🚀"
+        },
+        {
+            "id": 20,
+            "name": "Command & Conquer: Red Alert 2",
+            "year": 2000,
+            "genre": "estrategia",
+            "desc": "RTS clásico con campañas absurdas y divertidas. ¡Unidad lista!",
+            "mediafireUrl": "https://www.mediafire.com/file/red_alert_2_2000.iso/file",
+            "icon": "🎖️🚀"
+        },
+        {
+            "id": 21,
+            "name": "Tony Hawk's Pro Skater 2",
+            "year": 2000,
+            "genre": "deportes",
+            "desc": "El mejor juego de skate de la historia. Banda sonora increíble.",
+            "mediafireUrl": "https://www.mediafire.com/file/thps2_2000_pc.rar/file",
+            "icon": "🛹🎵"
+        }
+    ]
+}
