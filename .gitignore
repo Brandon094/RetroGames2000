@@ -1,0 +1,25 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Servidor local
+.serve/
+.servor/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Configuración personal (opcional)
+.env
+config.local.js
